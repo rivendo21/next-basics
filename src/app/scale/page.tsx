@@ -1,5 +1,5 @@
 import Hero from "@/components/Hero";
-import ScalabilityImage from "@/images/pexels-chris-221718132-23952902.jpg";
+import ScalabilityImage from "@/../public/images/pexels-chris-221718132-23952902.jpg";
 
 const page = () => {
   return (

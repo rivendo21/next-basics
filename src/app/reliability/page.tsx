@@ -1,5 +1,5 @@
 import Hero from "@/components/Hero";
-import ReliabilityImage from "@/images/pexels-sebastianpichard-18776098.jpg";
+import ReliabilityImage from "@/../public/images/pexels-sebastianpichard-18776098.jpg";
 
 const page = () => {
   return (

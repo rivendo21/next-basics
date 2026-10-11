@@ -1,5 +1,5 @@
 import Hero from "@/components/Hero";
-import PerformanceImage from "@/images/pexels-bertellifotografia-34552810.jpg";
+import PerformanceImage from "@/../public/images/pexels-bertellifotografia-34552810.jpg";
 const page = () => {
   return (
     <div>
